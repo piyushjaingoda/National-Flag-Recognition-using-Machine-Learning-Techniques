@@ -1,0 +1,6 @@
+Cat
+Dog
+Giraffe
+Leopard
+Monkey
+Squirrel
